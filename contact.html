@@ -35,53 +35,47 @@
 
         <div class="container">
             <div class="row">
-                <div class="col-8">
+                    <!--input name text-->
+                <div class="col-8">            
+                    <label for="Input first and last name">
+                        <div class="input-group mb-3">
+                            <div class="input-group-prepend">
+                                <span class="input-group-text" id="basic-addon1">Name</span>
+                            </div>
 
+                            <input type="text" class="form-control" placeholder="name" 
+                            aria-label="name" aria-describedby="basic-addon1">
+                        </div>
+                    </label>
                 </div>
+                <!--Input for email-->
                 <div class="col-8">
-
+                    <label for="Input Email">
+                        <div class="input-group mb-3">
+                            <div class="input-group-prepend">
+                                <span class="input-group-text" id="basic-addon1">Email</span>
+                            </div>
+                            <input type="text" 
+                            class="form-control" 
+                            placeholder="Email" 
+                            aria-label="Email" 
+                            aria-describedby="basic-addon1">
+                      </div>
+                    </label>
                 </div>
+                <!--Message Text box-->
                 <div class="col-8">
-
+                    <label for="Message">
+                        <div class="input-group">
+                            <div class="input-group-prepend">
+                              <span class="input-group-text">Message</span>
+                            </div>
+                            <textarea class="form-control" aria-label="Message"></textarea>
+                          </div>
+                    </label>
                 </div>
             </div>
-            <!--input name-->
-            <label for="Input first and last name">
-                <div class="input-group mb-3">
-                    <div class="input-group-prepend">
-                        <span class="input-group-text" id="basic-addon1">Name</span>
-                    </div>
-
-                    <input type="text" 
-                    class="form-control" 
-                    placeholder="name" 
-                    aria-label="name" 
-                    aria-describedby="basic-addon1">
-              </div>
-            </label>
-            <!--input email-->
-             <label for="Input Email">
-                <div class="input-group mb-3">
-                    <div class="input-group-prepend">
-                        <span class="input-group-text" id="basic-addon1">Email</span>
-                    </div>
-                    <input type="text" 
-                    class="form-control" 
-                    placeholder="Email" 
-                    aria-label="Email" 
-                    aria-describedby="basic-addon1">
-              </div>
-            </label>
-            <!--Message input-->
-            <label for="Message">
-                <div class="input-group">
-                    <div class="input-group-prepend">
-                      <span class="input-group-text">Message</span>
-                    </div>
-                    <textarea class="form-control" aria-label="Message"></textarea>
-                  </div>
-            </label>
-
+            
             <!--Submit button-->
             <label for="Submit Button">
                 <button type="button" class="btn btn-primary">Submit</button>
