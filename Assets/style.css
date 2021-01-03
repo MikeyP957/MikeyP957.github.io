@@ -11,9 +11,8 @@
 #contactBody{
   background-image: url(https://onlyvectorbackgrounds.com/wp-content/uploads/2018/10/Abstract-Geometric-Background-Blue.jpg);
 }
-/*Background for all containers*/
-.container{
-  margin-top: 30px;
+/*Background for all articles*/
+article{
   margin-bottom: 30px;
   background-color: antiquewhite;
 }
