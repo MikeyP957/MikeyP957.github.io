@@ -18,9 +18,12 @@
   background-color: antiquewhite;
 }
 /*Background for contact container*/
+#contactContainerHeader{
+  background-color: aqua;
+}
 #contactContainer{
   background-color: lightsteelblue;
-}
+  }
 
 /*Style for footer*/
 footer{
