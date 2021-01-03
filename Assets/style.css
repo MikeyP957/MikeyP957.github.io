@@ -12,8 +12,11 @@
   margin-bottom: 30px;
   background-color: antiquewhite;
 }
-/*Style for headers*/
-
+/*Style for footer*/
+footer{
+  margin-top: 30px;
+  
+}
 /*Style for links*/
 
 /*Style for <p> tags*/
