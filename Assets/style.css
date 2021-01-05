@@ -26,9 +26,13 @@ article{
 /*Background for contact container*/
 #contactContainerHeader{
   background-color: aqua;
+  /*width: 50%;*/
+
 }
 #contactContainer{
   background-color: lightsteelblue;
+  width: 60%;
+  padding: 10px;
   }
 
 /*Style for footer*/
