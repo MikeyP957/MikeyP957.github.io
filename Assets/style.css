@@ -14,7 +14,10 @@
 #mikeyPicture{
   margin: auto;
 }
-
+/*style for id earlyLife*/
+#earlyLife{
+  padding-left: 30px;
+}
 /*Background for all articles*/
 article{
   margin-bottom: 30px;
