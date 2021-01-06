@@ -25,9 +25,8 @@ article{
 }
 /*Background for contact container*/
 #contactContainer{
-  background-color: aqua;
   margin-right: 20px;
-
+  margin-left: 40px;
 
 }
 
@@ -35,6 +34,8 @@ article{
   background-color: lightsteelblue;
   width: 60%;
   padding: 10px;
+  margin-right: 20px;
+  margin-left: 40px;
   }
 
 /*Style for footer*/
