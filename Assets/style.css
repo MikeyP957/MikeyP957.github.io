@@ -27,11 +27,12 @@ article{
 #contactContainer{
   margin-right: 20px;
   margin-left: 40px;
+  
 
 }
 
 #contactCard{
-  background-color: lightsteelblue;
+  background-color:#5499C7 ;
   width: 60%;
   padding: 10px;
   margin-right: 20px;
