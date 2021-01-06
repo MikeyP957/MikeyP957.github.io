@@ -27,10 +27,13 @@ article{
 #contactContainer{
   margin-right: 20px;
   margin-left: 40px;
-  
-
+  }
+/*Submit button style*/
+.btn-primary{
+  background-color: #2b537f;
+  border-color: #2b537f;
 }
-
+/*Contact Card ID style*/
 #contactCard{
   background-color:#5499C7 ;
   width: 60%;
