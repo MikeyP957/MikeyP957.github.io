@@ -18,7 +18,7 @@
 #earlyLife{
   padding-left: 30px;
 }
-/*Background for all articles*/
+/*Style for all articles*/
 article{
   margin-bottom: 30px;
   background-color: antiquewhite;
@@ -26,10 +26,11 @@ article{
 /*Background for contact container*/
 #contactContainerHeader{
   background-color: aqua;
-  /*width: 50%;*/
+  
 
 }
-#contactContainer{
+
+#contactCard{
   background-color: lightsteelblue;
   width: 60%;
   padding: 10px;
