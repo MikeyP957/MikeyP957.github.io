@@ -24,9 +24,10 @@ article{
   background-color: antiquewhite;
 }
 /*Background for contact container*/
-#contactContainerHeader{
+#contactContainer{
   background-color: aqua;
-  
+  margin-right: 20px;
+
 
 }
 
