@@ -50,10 +50,6 @@ article{
 footer{
   margin-top: 30px;  
 }
-/*style for navbar ID*/
-#navbar{
-  background-color: rgba(0, 255, 255, 0.741);
-}
 
 /*Style for links*/
 a{
