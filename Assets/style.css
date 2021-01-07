@@ -48,12 +48,11 @@ article{
 
 /*Style for footer*/
 footer{
-  margin-top: 30px;
-  
+  margin-top: 30px;  
 }
 /*style for navbar ID*/
 #navbar{
-  background-color: #9ccfd5;
+  background-color: rgba(0, 255, 255, 0.741);
 }
 
 /*Style for links*/
@@ -63,6 +62,11 @@ a{
     font-size: larger;  
   }
 
-/*Style for <p> tags*/
-
-/*Margins, padding, gutters etc.*/
+/*Style for <p> and <h> tags*/
+p{
+  font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+/*Heading to contrast the background colors that are green*/
+h1,h2,h3,h4{
+  color:rgba(0, 255, 255, 0.741);
+}
