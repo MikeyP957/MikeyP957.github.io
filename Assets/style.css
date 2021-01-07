@@ -3,8 +3,8 @@
   background-color: lightseagreen;  
 }
 /*Background image for portfolio*/
-#portfolioBody{
-  background-image: url("larches.JPG");
+#portfolioPageBody{
+  background-color: #166061;
 }
 /*Background image for contact*/
 #contactBody{
