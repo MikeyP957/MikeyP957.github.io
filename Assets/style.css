@@ -1,6 +1,7 @@
 /*Background image for index.html*/
 #aboutBody{
-  background-color: lightseagreen;  
+  background-color:#2d8e8f;
+  ;  
 }
 /*Background image for portfolio*/
 #portfolioPageBody{
@@ -50,6 +51,11 @@ footer{
   margin-top: 30px;
   
 }
+/*style for navbar ID*/
+#navbar{
+  background-color: #9ccfd5;
+}
+
 /*Style for links*/
 a{
     color: teal;
