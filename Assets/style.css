@@ -70,3 +70,7 @@ p{
 h1,h2,h3,h4{
   color:rgba(0, 255, 255, 0.741);
 }
+/*Heading color for contact page by ID*/
+#contactHeader{
+  color: #2b537f;
+}
