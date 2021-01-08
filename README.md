@@ -4,11 +4,7 @@
 The aim of this project is to provide evidence of my proficiency and growth as a coder. Proficiency of my code will be found on the "portfolio" page and growth will be shown through my GitHub repository through commits and refractors. How I see myself as a coder and a professional can be seen on my personal about me page. 
 
 ## Languages and technologies
-This project shows my ability to utilize Bootstrap in HTML to build a structure for the content of my pages. The content is aligned using various Bootstrap classes to make the content organized and create a flow for the reader to follow. Images and text containers are responsive to different sized screens. Semantic HTML is used so that the code can be more accessable to users. 
-
-![Screenshots](./Assets/mainPageHeader.png)
-
-Links on the home page direct users to my portfolio and a contact page that has been styled similarly. 
+This project shows my ability to utilize Bootstrap in HTML to build a structure for the content of my pages. The content is aligned using various Bootstrap classes to make the content organized and create a flow for the reader to follow. Images and text containers are responsive to different sized screens. Semantic HTML is used so that the code can be more accessable to users. Links on the home page direct users to my portfolio and a contact page that has been styled similarly.  
 
 ![Screenshots](./Assets/mainPageHeader.png)
 
