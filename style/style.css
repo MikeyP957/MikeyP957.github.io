@@ -7,10 +7,7 @@
 #portfolioPageBody{
   background-color: #166061;
   }
-/*Background image for contact*/
-#contactBody{
-  background-image: url(https://onlyvectorbackgrounds.com/wp-content/uploads/2018/10/Abstract-Geometric-Background-Blue.jpg);
-}
+
 /*style for image id- mikeyPicture*/
 #mikeyPicture{
   margin: auto;
@@ -32,19 +29,7 @@ article{
   margin-right: 20px;
   margin-left: 40px;
   }
-/*Submit button style*/
-.btn-primary{
-  background-color: #2b537f;
-  border-color: #2b537f;
-}
-/*Contact Card ID style*/
-#contactCard{
-  background-color:#5499C7 ;
-  width: 60%;
-  padding: 10px;
-  margin-right: 20px;
-  margin-left: 40px;
-  }
+
 
 /*Style for footer*/
 footer{
@@ -66,10 +51,7 @@ p{
 h1,h2,h3,h4{
   color:rgba(0, 255, 255, 0.741);
 }
-/*Heading color for contact page by ID*/
-#contactHeader{
-  color: #2b537f;
-}
+
 .btn{
   background-color:#2d8e8f;
   color: white;
