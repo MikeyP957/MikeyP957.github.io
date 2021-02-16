@@ -70,3 +70,8 @@ h1,h2,h3,h4{
 #contactHeader{
   color: #2b537f;
 }
+.btn{
+  background-color:#2d8e8f;
+  color: white;
+  margin-bottom: 20px;
+}
