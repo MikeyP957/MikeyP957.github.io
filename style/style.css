@@ -3,10 +3,6 @@
   background-color:#2d8e8f;
   ;  
 }
-/*Background image for portfolio*/
-#portfolioPageBody{
-  background-color: #166061;
-  }
 
 /*style for image id- mikeyPicture*/
 #mikeyPicture{
@@ -24,12 +20,6 @@ article{
   margin-bottom: 30px;
   background-color: antiquewhite;
 }
-/*Background for contact container*/
-#contactContainer{
-  margin-right: 20px;
-  margin-left: 40px;
-  }
-
 
 /*Style for footer*/
 footer{

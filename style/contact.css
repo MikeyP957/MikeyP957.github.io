@@ -6,6 +6,11 @@
 #contactHeader{
   color: #2b537f;
 }
+/*Background for contact container*/
+#contactContainer{
+  margin-right: 20px;
+  margin-left: 40px;
+  }
 /*Style for footer*/
 footer{
   margin-top: 30px;  

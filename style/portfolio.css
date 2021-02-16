@@ -1,0 +1,19 @@
+/*Background image for portfolio*/
+#portfolioPageBody{
+    background-color: #166061;
+    }
+    /*Style for footer*/
+footer{
+    margin-top: 30px;  
+  }
+
+/*Style for links*/
+a{
+    color: teal;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: larger;  
+  }
+  /*Heading to contrast the background colors that are green*/
+h1,h2,h3,h4{
+    color:rgba(0, 255, 255, 0.741);
+  }
