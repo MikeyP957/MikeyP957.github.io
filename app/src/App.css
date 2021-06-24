@@ -2,3 +2,13 @@
     width: 320px;
     
 }
+.contactCard{
+    size: 8rem;
+    margin-top: auto;
+    color: blue;
+    text-align: center;
+
+}
+a{
+    color: blue;
+}
