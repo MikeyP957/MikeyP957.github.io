@@ -1,9 +1,8 @@
 import React, { Component } from "react";
 import { MenuItems } from './MenuItems'
  import './Navbar.css'
-import { Link } from 'react-router-dom'
 import 'react-bootstrap'
-import { NavItem } from "react-bootstrap";
+
 
 class Navbar extends Component {
   state= { clicked: false }
@@ -15,8 +14,9 @@ class Navbar extends Component {
   render() {
     return (
       <nav className='NavbarItems'>
-        <h1 className= 'navbar-logo' >
-          REACT <i className= 'fab fa-react'></i> 
+       <h1 className= 'navbar-logo' >        
+        Mikey P
+        <i className="fas fa-cat"></i> 
         </h1>
         <div className = 'menu-icon' onClick ={this.handleClick}>
           <i className ={this.state.clicked ? 'fas fa-times' : 'fas fa-bars' }> </i>
