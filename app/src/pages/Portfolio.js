@@ -1,7 +1,7 @@
 import React from 'react'
 import Title from '../components/Title'
 import ProjectCard from '../components/ProjectCard'
-import ProjectsArr from '../projects/projects.json'
+import ProjectsArr from '../projects/projectData'
 
 function Portfolio() {
 return (
