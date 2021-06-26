@@ -1,14 +1,31 @@
+body{
+    background-color: blueviolet;
+    color: azure;
+}
+a{
+    color: blue;
+}
+
 .profPic{
     width: 320px;
+    border-style: solid;
+    border-color: beige;
+    margin-left: 30px;
+    margin-right: 30px;
     
 }
+
+.aboutMe{
+    
+    margin-right: 25px;
+    text-align: center;
+
+}
+
 .contactCard{
     size: 8rem;
     margin-top: auto;
     color: blue;
     text-align: center;
 
-}
-a{
-    color: blue;
 }
