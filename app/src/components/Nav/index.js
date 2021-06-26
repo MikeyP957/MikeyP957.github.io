@@ -15,7 +15,7 @@ class Navbar extends Component {
     return (
       <nav className='NavbarItems'>
        <h1 className= 'navbar-logo' >        
-        Mikey P
+        Mikey Perara's webpage
         <i className="fas fa-cat"></i> 
         </h1>
         <div className = 'menu-icon' onClick ={this.handleClick}>
