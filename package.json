@@ -1,0 +1,23 @@
+{
+  "name": "mikeyp957.github.io",
+  "homepage":"https://github.com/MikeyP957/MikeyP957.github.io",
+  "version": "1.0.0",
+  "description": "## Introduction The aim of this project is to provide evidence of my proficiency and growth as a coder. Proficiency of my code will be found on the \"portfolio\" page and growth will be shown through my GitHub repository through commits and refractors. How I see myself as a coder and a professional can be seen on my personal about me page.",
+  "main": "index.js",
+  "dependencies": {
+    "gh-pages": "^3.2.3"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MikeyP957/MikeyP957.github.io.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MikeyP957/MikeyP957.github.io/issues"
+  }  
+}
